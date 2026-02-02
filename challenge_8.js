@@ -7,11 +7,6 @@ function range(start, end) {
         }   
     }
 }
-
-
-
-
-
  range(1,4) //=> 1, 2, 3, 4
  range(4,2) //=>
  
